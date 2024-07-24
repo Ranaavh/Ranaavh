@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, JavaScript, CSS, and front-end development.**
 
- - 👨‍💻 Linkedin [www.linkedin.com/in/rana-vh](www.linkedin.com/in/rana-vh)
+ - 👨‍💻 Linkedin [www.linkedin.com/in/rana-vh/](www.linkedin.com/in/rana-vh/)
 
 <br>
 <h3 align="left">Connect with me:</h3>
