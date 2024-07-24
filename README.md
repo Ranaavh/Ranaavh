@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **react js ,node js,javascript**
 
-- 📫 How to reach me **ranaharoon2001@gmail.com**
+- 📫 How to reach me **ranavh003@gmail.com**
 
 - 💬 Ask me about **React, JavaScript, CSS, and front-end development.**
 
- - 👨‍💻 Linkedin [www.linkedin.com/in/rana-vh-2a4238212](www.linkedin.com/in/rana-vh-2a4238212)
+ - 👨‍💻 Linkedin [www.linkedin.com/in/rana-vh](www.linkedin.com/in/rana-vh)
 
 <br>
 <h3 align="left">Connect with me:</h3>
