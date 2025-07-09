@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm RANA</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate front-end developer specializing in React.js. I love creating interactive and responsive web applications. Here are a few things about me.</h3>
+//**<h1 align="center">Hi 👋, I'm RANA</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate front-end developer specializing in C. I love creating interactive and responsive web applications. Here are a few things about me.</h3>
 
 
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranaavh&show_icons=true&locale=en" alt="ranaavh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaavh&" alt="ranaavh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaavh&" alt="ranaavh" /></p>//
