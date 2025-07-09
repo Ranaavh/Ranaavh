@@ -1,15 +1,9 @@
-//**<h1 align="center">Hi 👋, I'm RANA</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate front-end developer specializing in C. I love creating interactive and responsive web applications. Here are a few things about me.</h3>
-
-
-
-<img align ="right" height="300px" src="https://i.pinimg.com/originals/08/46/75/084675020ddc70e695724b3ee363a515.jpg">
-
-- 🌱 I’m currently learning **react js ,node js,javascript**
+<h1 align="center">Hi 👋, I'm RANA</h1>
+<h3 align="center">Welcome to my 
 
 - 📫 How to reach me **ranavh003@gmail.com**
 
-- 💬 Ask me about **React, JavaScript, CSS, and front-end development.**
+
 
  - 👨‍💻 Linkedin [www.linkedin.com/in/rana-vh/](www.linkedin.com/in/rana-vh/)
 
